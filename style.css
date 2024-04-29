@@ -1,0 +1,140 @@
+.Carrusel {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-width: 1px;
+    border-style: groove;
+    padding: 0 200px; 
+} 
+
+.nav.flex-column {
+    margin-left: 100px; 
+    font-family: Arial, sans-serif; 
+  }
+  
+  .nav.flex-column .nav-link {
+    color: #333; 
+    font-size: 16px; 
+    text-decoration: none; 
+  }
+
+  .col-6 p {
+    text-align: left;
+  }
+
+  .col-6 {
+    margin-left: 50px; 
+  }
+
+  .ListaEventos {
+    text-align: left;
+  }
+
+  .table {
+    border: 2px color(srgb red green blue); 
+    width: 100%; 
+  }
+
+  .table th, .table td {
+    border: 1px solid #050404; 
+    padding: 8px; 
+  }
+
+  .Video {
+    border-radius: 30px;
+  }
+
+  .btn-menos-largo {
+    width: 120px;
+  }
+  
+  .contenedor-formulario {
+    font-size: medium;
+    border-style:groove;
+    padding: 20px 50px 20px;
+    border-radius: 15px;
+    margin: 50px;
+
+   }
+
+.footer {
+  background-color: #24262B;
+  padding: 20px;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.footer-links {
+  width: 25%;
+  padding: 0 60px;
+}
+
+.footer-links h4 {
+  font-size: 20px;
+  color: #FFFFFF;
+  margin-bottom: 25px;
+  font-weight: 500px;
+  border-bottom: 2px solid #00C3FF;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+
+.footer-links ul li a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #BBBBBB;
+  display: block;
+  margin-bottom: 13px;
+  transition: all .3s ease;
+}
+
+.footer-links ul li a:hover {
+  color: #FFFFFF;
+  padding-left: 6px;
+
+}
+
+.footer-links ul li {
+  margin-left: -30px;
+}
+
+.social-link a {
+  display: inline-block;
+  min-height: 20px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 0 10px 15px 0;
+  text-align: center;
+  line-height: 35px;
+  border-radius: 50px;
+  color: #FFFFFF;
+  transition: all .5s ease;
+}
+
+.social-link a:hover {
+  background-color: #00c3ff;
+}
+
+.body {
+  background-color:#F4F6F6
+}
+
+.desarrollado {
+ padding: 3px;
+ background-color: #24262B;
+}
+
+.desarrollado h4 {
+  font-size: 17px;
+  color: #FFFFFF;
+  padding: 1px 456px 90px;
+  margin-bottom: 15px;
+  font-weight: 30px;
+  border-bottom: 2px solid #00C3FF;
+  padding-bottom: 10px;
+  display: inline-block;
+}
